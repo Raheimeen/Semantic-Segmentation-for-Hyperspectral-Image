@@ -32,6 +32,9 @@ This breakdown provides a structured overview of the key components of the imple
 # Here are some images of the results:
 
 ![EvaluationMetrics](results.png)
+
 ![ConfusionMatrix](confmat.png)
-![GroundTruth](original.png)s
+
+![GroundTruth](original.png)
+
 ![Predicted](pred.png)
